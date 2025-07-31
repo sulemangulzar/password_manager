@@ -41,5 +41,9 @@ No external libraries are needed — it only uses Python’s standard library (`
 1. Clone this repository or copy the script file.
 2. Run the Python file:
 
-```bash
+
 python password_manager.py
+
+🧑‍🎓 Author Developed by: Suleman Gulzar
+
+For learning and personal use.
